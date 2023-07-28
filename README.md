@@ -1,5 +1,5 @@
 # Seoul Bike Rental Prediction
-This project aims to predict the count of rented bikes in the Seoul Bike sharing system. The dataset comprises various environmental and temporal attributes collected over a year. The primary objective is to build a robust predictive model and to identify the key factors influencing the bike rental demand.
+This project aims to predict the count of rented bikes in the Seoul Bike sharing system. The dataset comprises various environmental and temporal attributes collected over a year. The primary objective is to build a robust predictive model and identify the key factors influencing bike rental demand.
 
 ## Dataset
 The dataset contains 8760 records, each representing an hour of a day over a year. There are 14 features in the dataset:
@@ -33,12 +33,12 @@ The project involves several steps:
 
 ### Optimizing models using GridSearchCV for hyperparameter tuning.
 
-Analyzing feature importance to identify significant features affecting bike rentals.
+### Analyzing feature importance to identify significant features affecting bike rentals.
 
 ## Results
 Models' performance and feature importance analyses are provided for both the complete feature set and the engineered feature set.
 
-The results offer valuable insights for bike-sharing service management and promotion strategies. For a detailed summary, please refer to the project report.
+The results offer valuable insights for bike-sharing service management and promotion strategies. For a detailed summary, please refer to the python notebook.
 
 ## Usage
 Clone the repository.
